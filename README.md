@@ -34,3 +34,8 @@ A geração de uma proposta de automação foi testada. Os fluxos de sites, aná
 ## Origem
 
 Projeto de estudo adaptado de uma atividade de curso, com revisão das instruções para os quatro serviços descritos acima.
+
+## Arquivos do projeto
+
+- [Instruções do ARI Deals](SKILL.md)
+- [Proposta fictícia de demonstração](Proposta-Simulação.pdf)
